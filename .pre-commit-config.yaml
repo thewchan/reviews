@@ -9,7 +9,6 @@
 # precommit hooks installation
 #
 # - pre-commit autoupdate
-#
 # - pre-commit run black
 #
 # continuous integration
